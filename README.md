@@ -16,5 +16,5 @@ I’m a Computer Science & Engineering (CSE) student with a strong interest in s
 - ⚡ Fun fact: I learn best by building projects 
 
 
-[<img src='https://i.ibb.co/p6q7b9XY/github.png' alt='github' height='40'>](https://github.com/mdalfi-shahor)  [<img src='https://i.ibb.co/VcGTkYTZ/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdalfi-shahor/)  [<img src='https://i.ibb.co/WvcQ2nPN/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/alfishahor)  
+[<img src='https://i.ibb.co/p6q7b9XY/github.png' alt='github' height='40'>](https://github.com/mdalfi-shahor)  [<img src='https://i.ibb.co/VcGTkYTZ/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdalfi-shahor/)  [<img src='https://i.ibb.co/WvcQ2nPN/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/alfishahor29)  
 
