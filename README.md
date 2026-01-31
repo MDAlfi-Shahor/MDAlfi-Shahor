@@ -1,6 +1,6 @@
+![I am a frontend developer from Bangladesh.](https://i.ibb.co/PsqGPxjb/Untitled-1.png)
 ### Hi there 👋, MD Alfi Shahor
 #### I am a frontend developer from Bangladesh.
-![I am a frontend developer from Bangladesh.](https://i.ibb.co/PsqGPxjb/Untitled-1.png)
 
 I’m a Computer Science & Engineering (CSE) student with a strong interest in software development, web technologies, and problem-solving. I enjoy turning ideas into real, usable projects and learning how systems work under the hood.
 
